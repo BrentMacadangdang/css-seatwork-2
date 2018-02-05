@@ -3,14 +3,14 @@ body {
 }
 
 header,footer {
-    background-color: gray;
-    color: white;
+    background-color: orange;
+    color: black;
     overflow: hidden;  
     width: 100%;
 }
 
 div#content {
-    margin: 10px;
+    margin: 30px;
 }
 section.row {
     background-color: yellow;
